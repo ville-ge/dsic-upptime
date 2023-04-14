@@ -33,3 +33,12 @@ status-website:
 assignees:
   - obrunau-vdg
   - pauregan-vdg
+
+workflowSchedule:
+  graphs: "15 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "30 * * * *"
+  summary: "15 * * * *"
+  updateTemplate: "15 * * * *"
+  updates: "45 * * * *"
+  uptime: "*/5 * * * *"
