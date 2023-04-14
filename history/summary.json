@@ -4,19 +4,19 @@
     "url": "https://www.geneve.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.geneve.ch.ico",
     "slug": "geneve-ch",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1301,
-    "timeDay": 1301,
-    "timeWeek": 1301,
-    "timeMonth": 1301,
-    "timeYear": 1301,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 1292,
+    "timeDay": 1292,
+    "timeWeek": 1292,
+    "timeMonth": 1292,
+    "timeYear": 1292,
     "dailyMinutesDown": {
-      "2023-04-14": 1
+      "2023-04-14": 10
     }
   },
   {
