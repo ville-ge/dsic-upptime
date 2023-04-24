@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1374,
-    "timeDay": 1759,
-    "timeWeek": 1381,
-    "timeMonth": 1374,
-    "timeYear": 1374,
+    "time": 1372,
+    "timeDay": 1728,
+    "timeWeek": 1378,
+    "timeMonth": 1372,
+    "timeYear": 1372,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1078,
-    "timeWeek": 1181,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "time": 1269,
+    "timeDay": 1064,
+    "timeWeek": 1178,
+    "timeMonth": 1269,
+    "timeYear": 1269,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2216,
-    "timeDay": 2258,
-    "timeWeek": 2253,
-    "timeMonth": 2216,
-    "timeYear": 2216,
+    "time": 2214,
+    "timeDay": 2236,
+    "timeWeek": 2250,
+    "timeMonth": 2214,
+    "timeYear": 2214,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "https://www.fmac-geneve.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.fmac-geneve.ch.ico",
     "slug": "fmac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 1350,
-    "timeWeek": 954,
-    "timeMonth": 942,
-    "timeYear": 942,
-    "dailyMinutesDown": {}
+    "time": 941,
+    "timeDay": 1321,
+    "timeWeek": 952,
+    "timeMonth": 941,
+    "timeYear": 941,
+    "dailyMinutesDown": {
+      "2023-04-24": 0
+    }
   }
 ]
