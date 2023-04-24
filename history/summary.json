@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.geneve.ch.ico",
     "slug": "geneve-ch",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1374,
-    "timeDay": 1738,
-    "timeWeek": 1401,
-    "timeMonth": 1374,
-    "timeYear": 1374,
-    "dailyMinutesDown": {
-      "2023-04-24": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1375,
+    "timeDay": 1754,
+    "timeWeek": 1403,
+    "timeMonth": 1375,
+    "timeYear": 1375,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MEG",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1275,
-    "timeDay": 1070,
+    "timeDay": 1084,
     "timeWeek": 1194,
     "timeMonth": 1275,
     "timeYear": 1275,
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2208,
-    "timeDay": 2213,
-    "timeWeek": 2244,
-    "timeMonth": 2208,
-    "timeYear": 2208,
+    "time": 2209,
+    "timeDay": 2236,
+    "timeWeek": 2246,
+    "timeMonth": 2209,
+    "timeYear": 2209,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 985,
-    "timeWeek": 894,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "time": 902,
+    "timeDay": 1006,
+    "timeWeek": 895,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   }
 ]
