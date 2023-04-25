@@ -70,5 +70,23 @@
     "timeMonth": 947,
     "timeYear": 947,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MAH",
+    "url": "https://www.mahmah.ch/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.mahmah.ch.ico",
+    "slug": "mah",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
