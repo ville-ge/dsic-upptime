@@ -4,19 +4,19 @@
     "url": "https://www.geneve.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.geneve.ch.ico",
     "slug": "geneve-ch",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 1342,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 1341,
     "timeDay": 1164,
-    "timeWeek": 1351,
-    "timeMonth": 1342,
-    "timeYear": 1342,
+    "timeWeek": 1350,
+    "timeMonth": 1341,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2023-04-28": 106
+      "2023-04-28": 129
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.meg.ch.ico",
     "slug": "meg",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.37%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 1222,
     "timeDay": 1136,
     "timeWeek": 1083,
     "timeMonth": 1222,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2023-04-28": 106
+      "2023-04-28": 129
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cjbg.ch.ico",
     "slug": "cjbg",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.29%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 2254,
     "timeDay": 2529,
     "timeWeek": 2309,
     "timeMonth": 2254,
     "timeYear": 2254,
     "dailyMinutesDown": {
-      "2023-04-28": 106,
+      "2023-04-28": 129,
       "2023-04-27": 16
     }
   },
@@ -66,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fmac-geneve.ch.ico",
     "slug": "fmac",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.37%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 922,
     "timeDay": 853,
     "timeWeek": 964,
     "timeMonth": 922,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2023-04-28": 106
+      "2023-04-28": 129
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mahmah.ch.ico",
     "slug": "mah",
     "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "uptime": "97.10%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "97.10%",
     "time": 1077,
     "timeDay": 1032,
     "timeWeek": 1077,
     "timeMonth": 1077,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2023-04-28": 106
+      "2023-04-28": 129
     }
   }
 ]
