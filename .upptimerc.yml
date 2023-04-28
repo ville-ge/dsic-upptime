@@ -16,6 +16,12 @@ sites:
     url: https://www.fmac-geneve.ch/fr
   - name: MAH
     url: https://www.mahmah.ch/
+  - name: Ariana
+    url: https://www.musee-ariana.ch/fr
+  - name: Ariana - Collections en ligne
+    url: https://www.musee-ariana.ch/collections/
+  - name: BGE
+    url: https://bge-geneve.ch/iconographie/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
