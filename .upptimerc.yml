@@ -38,6 +38,8 @@ status-website:
 assignees:
   - obrunau-vdg
   - pauregan-vdg
+  - ccettour-vdg
+  - django80
 
 workflowSchedule:
   graphs: "15 * * * *"
