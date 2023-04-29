@@ -1,7 +1,7 @@
 url: https://www.geneve.ch/fr
-status: up
-code: 200
-responseTime: 1183
-lastUpdated: 2023-04-29T18:08:32.097Z
+status: degraded
+code: 503
+responseTime: 10643
+lastUpdated: 2023-04-29T18:48:25.325Z
 startTime: Fri Apr 14 2023 07:07:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
