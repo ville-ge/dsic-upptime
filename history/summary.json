@@ -10,11 +10,11 @@
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.48%",
-    "time": 1358,
-    "timeDay": 1324,
-    "timeWeek": 1334,
-    "timeMonth": 1358,
-    "timeYear": 1358,
+    "time": 1357,
+    "timeDay": 1304,
+    "timeWeek": 1332,
+    "timeMonth": 1357,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2023-04-28": 129
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.46%",
-    "time": 1198,
-    "timeDay": 1067,
-    "timeWeek": 1091,
-    "timeMonth": 1198,
-    "timeYear": 1198,
+    "time": 1197,
+    "timeDay": 1051,
+    "timeWeek": 1089,
+    "timeMonth": 1197,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2023-04-28": 134
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.34%",
     "time": 2236,
-    "timeDay": 2112,
-    "timeWeek": 2274,
+    "timeDay": 2092,
+    "timeWeek": 2269,
     "timeMonth": 2236,
     "timeYear": 2236,
     "dailyMinutesDown": {
@@ -71,11 +71,11 @@
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.44%",
-    "time": 913,
-    "timeDay": 870,
-    "timeWeek": 928,
-    "timeMonth": 913,
-    "timeYear": 913,
+    "time": 912,
+    "timeDay": 855,
+    "timeWeek": 927,
+    "timeMonth": 912,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2023-04-28": 140
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "98.49%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.49%",
-    "time": 1103,
-    "timeDay": 1142,
-    "timeWeek": 1103,
-    "timeMonth": 1103,
-    "timeYear": 1103,
+    "time": 1102,
+    "timeDay": 1115,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2023-04-28": 134
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1938,
-    "timeDay": 1927,
-    "timeWeek": 1938,
-    "timeMonth": 1938,
-    "timeYear": 1938,
+    "time": 1940,
+    "timeDay": 1926,
+    "timeWeek": 1940,
+    "timeMonth": 1940,
+    "timeYear": 1940,
     "dailyMinutesDown": {}
   },
   {
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
+    "time": 604,
     "timeDay": 639,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -142,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bge-geneve.ch.ico",
     "slug": "bge",
     "status": "down",
-    "uptime": "41.79%",
+    "uptime": "41.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.79%",
-    "uptimeMonth": "41.79%",
-    "uptimeYear": "41.79%",
-    "time": 977,
-    "timeDay": 850,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "uptimeWeek": "41.36%",
+    "uptimeMonth": "41.36%",
+    "uptimeYear": "41.36%",
+    "time": 974,
+    "timeDay": 847,
+    "timeWeek": 974,
+    "timeMonth": 974,
+    "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-05-01": 759,
+      "2023-05-01": 804,
       "2023-04-30": 1440,
       "2023-04-29": 311
     }
