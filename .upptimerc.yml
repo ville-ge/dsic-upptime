@@ -22,6 +22,10 @@ sites:
     url: https://www.musee-ariana.ch/collections/
   - name: BGE
     url: https://bge-geneve.ch/iconographie/
+  - name: Prestations sportives
+    url: https://demarches.ville-geneve.ch/prestationssportives/
+  - name: Webdeb
+    url: https://demarches.ville-geneve.ch/debarras-encombrants/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
