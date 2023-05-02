@@ -6,8 +6,6 @@ sites:
   - name: Geneve.ch
     url: https://www.geneve.ch/fr
     maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
   - name: MEG
     url: https://www.meg.ch/fr
   - name: CJBG
