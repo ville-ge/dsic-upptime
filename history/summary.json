@@ -44,11 +44,11 @@
     "url": "https://www.cjbg.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cjbg.ch.ico",
     "slug": "cjbg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.67%",
     "time": 2223,
     "timeDay": 2715,
@@ -56,6 +56,7 @@
     "timeMonth": 2231,
     "timeYear": 2223,
     "dailyMinutesDown": {
+      "2023-05-18": 2,
       "2023-04-28": 148,
       "2023-04-27": 16
     }
@@ -105,9 +106,9 @@
     "url": "https://www.musee-ariana.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.musee-ariana.ch.ico",
     "slug": "ariana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +117,9 @@
     "timeWeek": 2018,
     "timeMonth": 2006,
     "timeYear": 2006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-18": 0
+    }
   },
   {
     "name": "Ariana - Collections en ligne",
