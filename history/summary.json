@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.81%",
-    "time": 1342,
+    "time": 1341,
     "timeDay": 1254,
-    "timeWeek": 1296,
+    "timeWeek": 1293,
     "timeMonth": 1325,
-    "timeYear": 1342,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2023-06-06": 24,
       "2023-04-28": 129
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1109,
-    "timeDay": 1060,
-    "timeWeek": 1047,
-    "timeMonth": 1072,
+    "timeDay": 1057,
+    "timeWeek": 1044,
+    "timeMonth": 1071,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2023-04-28": 134
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 2222,
+    "time": 2221,
     "timeDay": 1027,
-    "timeWeek": 2023,
-    "timeMonth": 2228,
-    "timeYear": 2222,
+    "timeWeek": 2015,
+    "timeMonth": 2227,
+    "timeYear": 2221,
     "dailyMinutesDown": {
       "2023-04-28": 148,
       "2023-04-27": 16
@@ -74,7 +74,7 @@
     "uptimeYear": "99.76%",
     "time": 886,
     "timeDay": 835,
-    "timeWeek": 835,
+    "timeWeek": 833,
     "timeMonth": 876,
     "timeYear": 886,
     "dailyMinutesDown": {
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1220,
-    "timeDay": 1334,
-    "timeWeek": 1197,
+    "time": 1219,
+    "timeDay": 1331,
+    "timeWeek": 1194,
     "timeMonth": 1248,
-    "timeYear": 1220,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2023-04-28": 134
     }
@@ -114,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2040,
-    "timeDay": 1894,
-    "timeWeek": 2012,
+    "timeDay": 1895,
+    "timeWeek": 2009,
     "timeMonth": 2061,
     "timeYear": 2040,
     "dailyMinutesDown": {}
@@ -132,8 +132,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 677,
-    "timeWeek": 653,
+    "timeDay": 676,
+    "timeWeek": 652,
     "timeMonth": 660,
     "timeYear": 652,
     "dailyMinutesDown": {}
@@ -144,14 +144,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bge-geneve.ch.ico",
     "slug": "bge",
     "status": "up",
-    "uptime": "93.75%",
+    "uptime": "93.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "93.75%",
+    "uptimeYear": "93.76%",
     "time": 1159,
-    "timeDay": 1282,
-    "timeWeek": 1126,
+    "timeDay": 1281,
+    "timeWeek": 1123,
     "timeMonth": 1159,
     "timeYear": 1159,
     "dailyMinutesDown": {
@@ -175,7 +175,7 @@
     "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 536,
-    "timeWeek": 574,
+    "timeWeek": 572,
     "timeMonth": 580,
     "timeYear": 581,
     "dailyMinutesDown": {}
@@ -191,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
+    "time": 138,
     "timeDay": 135,
-    "timeWeek": 136,
+    "timeWeek": 135,
     "timeMonth": 138,
-    "timeYear": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]
