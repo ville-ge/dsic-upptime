@@ -4,11 +4,11 @@
     "url": "https://www.geneve.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.geneve.ch.ico",
     "slug": "geneve-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.78%",
     "time": 1347,
     "timeDay": 1611,
@@ -16,7 +16,7 @@
     "timeMonth": 1338,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2023-06-15": 47,
+      "2023-06-15": 49,
       "2023-06-06": 24,
       "2023-04-28": 129
     }
@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fmac-geneve.ch.ico",
     "slug": "fmac",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.73%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.73%",
     "time": 882,
     "timeDay": 790,
     "timeWeek": 842,
     "timeMonth": 874,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-06-15": 46,
+      "2023-06-15": 52,
       "2023-05-24": 52,
       "2023-04-28": 140
     }
@@ -91,18 +91,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mahmah.ch.ico",
     "slug": "mah",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.76%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.76%",
     "time": 1217,
     "timeDay": 1256,
     "timeWeek": 1184,
     "timeMonth": 1231,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2023-06-15": 38,
+      "2023-06-15": 44,
       "2023-04-28": 134
     }
   },
@@ -111,19 +111,19 @@
     "url": "https://www.musee-ariana.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.musee-ariana.ch.ico",
     "slug": "ariana",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.94%",
-    "time": 2064,
-    "timeDay": 3130,
-    "timeWeek": 2208,
-    "timeMonth": 2103,
-    "timeYear": 2064,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
+    "time": 2084,
+    "timeDay": 3994,
+    "timeWeek": 2342,
+    "timeMonth": 2134,
+    "timeYear": 2084,
     "dailyMinutesDown": {
-      "2023-06-15": 45
+      "2023-06-15": 50
     }
   },
   {
@@ -132,18 +132,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.musee-ariana.ch.ico",
     "slug": "ariana-collections-en-ligne",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.94%",
     "time": 654,
     "timeDay": 644,
     "timeWeek": 656,
     "timeMonth": 659,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-06-15": 36
+      "2023-06-15": 42
     }
   },
   {
@@ -153,9 +153,9 @@
     "slug": "bge",
     "status": "up",
     "uptime": "94.71%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "94.71%",
     "time": 1168,
     "timeDay": 1165,
@@ -163,7 +163,7 @@
     "timeMonth": 1175,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2023-06-15": 44,
+      "2023-06-15": 50,
       "2023-05-16": 47,
       "2023-05-02": 395,
       "2023-05-01": 1440,
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demarches.ville-geneve.ch.ico",
     "slug": "webdeb",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.92%",
     "time": 142,
     "timeDay": 272,
     "timeWeek": 158,
     "timeMonth": 143,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-06-15": 43
+      "2023-06-15": 49
     }
   }
 ]
