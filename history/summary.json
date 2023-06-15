@@ -4,19 +4,19 @@
     "url": "https://www.geneve.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.geneve.ch.ico",
     "slug": "geneve-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.78%",
     "time": 1344,
-    "timeDay": 1426,
-    "timeWeek": 1321,
+    "timeDay": 1410,
+    "timeWeek": 1319,
     "timeMonth": 1331,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2023-06-15": 45,
+      "2023-06-15": 47,
       "2023-06-06": 24,
       "2023-04-28": 129
     }
@@ -26,19 +26,19 @@
     "url": "https://www.meg.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.meg.ch.ico",
     "slug": "meg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.81%",
-    "time": 1106,
-    "timeDay": 1044,
-    "timeWeek": 1073,
-    "timeMonth": 1072,
-    "timeYear": 1106,
+    "time": 1110,
+    "timeDay": 1290,
+    "timeWeek": 1110,
+    "timeMonth": 1081,
+    "timeYear": 1110,
     "dailyMinutesDown": {
-      "2023-06-15": 35,
+      "2023-06-15": 37,
       "2023-04-28": 134
     }
   },
@@ -47,16 +47,16 @@
     "url": "https://www.cjbg.ch/fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cjbg.ch.ico",
     "slug": "cjbg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 2089,
-    "timeDay": 1317,
-    "timeWeek": 1134,
-    "timeMonth": 1966,
+    "timeDay": 1307,
+    "timeWeek": 1133,
+    "timeMonth": 1965,
     "timeYear": 2089,
     "dailyMinutesDown": {
       "2023-04-28": 148,
@@ -70,8 +70,8 @@
     "slug": "fmac",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.76%",
     "time": 882,
@@ -80,7 +80,7 @@
     "timeMonth": 874,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-06-15": 25,
+      "2023-06-15": 28,
       "2023-05-24": 52,
       "2023-04-28": 140
     }
@@ -91,18 +91,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mahmah.ch.ico",
     "slug": "mah",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.79%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.79%",
     "time": 1217,
     "timeDay": 1256,
     "timeWeek": 1184,
     "timeMonth": 1231,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2023-06-15": 17,
+      "2023-06-15": 20,
       "2023-04-28": 134
     }
   },
@@ -112,18 +112,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.musee-ariana.ch.ico",
     "slug": "ariana",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 2064,
     "timeDay": 3130,
     "timeWeek": 2208,
     "timeMonth": 2103,
     "timeYear": 2064,
     "dailyMinutesDown": {
-      "2023-06-15": 24
+      "2023-06-15": 27
     }
   },
   {
@@ -132,18 +132,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.musee-ariana.ch.ico",
     "slug": "ariana-collections-en-ligne",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 654,
     "timeDay": 644,
     "timeWeek": 656,
     "timeMonth": 659,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-06-15": 16
+      "2023-06-15": 19
     }
   },
   {
@@ -153,9 +153,9 @@
     "slug": "bge",
     "status": "up",
     "uptime": "94.74%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "94.74%",
     "time": 1168,
     "timeDay": 1165,
@@ -163,7 +163,7 @@
     "timeMonth": 1175,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2023-06-15": 23,
+      "2023-06-15": 26,
       "2023-05-16": 47,
       "2023-05-02": 395,
       "2023-05-01": 1440,
@@ -196,9 +196,9 @@
     "slug": "webdeb",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 142,
     "timeDay": 272,
@@ -206,7 +206,7 @@
     "timeMonth": 143,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-06-15": 22
+      "2023-06-15": 25
     }
   }
 ]
